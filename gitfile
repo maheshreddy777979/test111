@@ -1,0 +1,5 @@
+echo "new project"
+
+mkdir file111
+
+touch filew
